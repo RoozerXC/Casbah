@@ -12,7 +12,7 @@ Visual Studio 2022 is required to build compiled versions of the game on Windows
 
 Other than that, you must have the project cloned or downloaded. To clone it enter this command in your terminal:
 ```
-git clone --branch Casbah --single-branch https://github.com/RoozerXC/EXPL2.git
+git clone https://github.com/RoozerXC/Casbah.git
 ```
 
 ### Windows
