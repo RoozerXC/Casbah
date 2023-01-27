@@ -15,10 +15,6 @@ Other than that, you must have the project cloned or downloaded. To clone it ent
 git clone --branch Casbah --single-branch https://github.com/RoozerXC/EXPL2.git
 ```
 
-Since Casbah is a branch of EXPL2 and I can't make separate forks of the same codebase, you'll just have to get used to going to the EXPL2 folder sometimes. Thanks GitHub for not letting me be able to make as many forks as I want, and without your incompetence and ignorance I could have done things a lot more quicker and easier especially for this project
-
-If you want to make any pull requests to Casbah at some point, please only submit those to the `Casbah` branch and not the `EXPL2` branch
-
 ### Windows
 1. Open `Amnesia.sln` (will be renamed to `Casbah.sln`)
 2. Set `Debug x64` to `Release x64`
