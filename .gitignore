@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Amnesia/HPL Cache
+*.msh
+*.anm
+*.map_cache
