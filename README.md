@@ -29,7 +29,7 @@ to do
 to do
 
 ## Installation
-Before downloading and installing Casbah, visit https://roozerxc.neocities.org/stuff/casbah (WIP)
+Before downloading and installing Casbah, visit https://roozerxc.neocities.org/stuff/casbah (to do)
 
 Casbah uses a simple self-extracting file to "install" the game. If you're concerned about the safety of self-extracting files, you can download a ZIP archive of the game which has everything in it. If at some point you want to uninstall Casbah, just remove the folder and that's it
 
