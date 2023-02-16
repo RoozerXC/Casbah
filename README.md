@@ -44,7 +44,7 @@ Casbah uses a simple self-extracting file to "install" the game. If you're conce
 ### Linux
 to do
 
-### MacOS
+### macOS
 to do
 
 # Goals
