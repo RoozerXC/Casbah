@@ -48,13 +48,13 @@ to do
 to do
 
 # Goals
-Small list of goals. Most of them are not done yet simply because this project just started; some more will be added soon
+Small list of goals. Most of them are not done yet, either because I am most likely demotivated or I am working on something else
 
 ## Mod goals
 - Change lantern HandObject entity to a large, orange PointLight
-- Add original placeholder music from Penumbra: Black Plague
+- Add original placeholder music from Penumbra: Overture and Penumbra: Black Plague
 - Edit base maps to match stuff from [Thomas Grip's Google Drive folder](https://drive.google.com/drive/folders/0B46VxpjfO5WCd0g1a2FtT2psdWc) as well as contents from the super_secret.rar file
-- Custom story/mod support
+- Experimental custom story/mod support (using parameter `camel`)
 
 ## Engine goals
 - Remove all Manpig (AMFP) as well as FBX references in the code
