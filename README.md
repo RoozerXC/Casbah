@@ -1,4 +1,4 @@
-**As of 12/09/23 due to inactivity and demotivation I will be archiving this project on 12/17/23. I couldn't really get into amnesia modding that much besides messing with parts of the game and breaking them altogether through dumb experiments. At least the source code is here so you could mess with a few things. I'll upload some of the game files before archival begins in the next few days**
+**As of 12/14/23 Casbah has been abandoned due to inactivity, demotivation and personal issues. You can now download the unfinished build here: https://drive.google.com/file/d/1kDFu-kADzK7BvMvEKQlL_9F70-NB7j_C**
 
 # Casbah: Amnesia Pre-Alpha, Once Again
 Here is everything you need to compile Casbah, a playable recreation of early pre-alpha videos from 2008-2009 that were recorded years prior to Amnesia: The Dark Descent's final release
